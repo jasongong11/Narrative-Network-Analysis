@@ -1,0 +1,9 @@
+The movie script html were parsed using an existing imsdb screenplay parser. 
+
+using the following code for each of the downloaded html file. 
+
+```
+python imsdb_parse -x INFILE.html
+```
+
+This parser is folked from https://github.com/alex-raw/imsdb_parse.git
